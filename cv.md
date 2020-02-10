@@ -5,3 +5,4 @@ Phone: 89276581104
 6. Experience: took a part in project called "blablacar" https://github.com/Advicel/blablacar
 7. Education : a half of course https://learn.javascript.ru/.
 8. English: School+University.I'm attending courses now.
+9.
